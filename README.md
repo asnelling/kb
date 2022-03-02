@@ -2,6 +2,7 @@
 
 ## Linux
 
+* [Initial VM Setup](linux/initial-vm-setup.md)
 * [Identify hardware performance bottlenecks](linux/identify-hardware-performance-bottlenecks.md)
 
 ## Windows
