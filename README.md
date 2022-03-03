@@ -4,6 +4,7 @@
 
 * [Initial VM Setup](linux/initial-vm-setup.md)
 * [Identify hardware performance bottlenecks](linux/identify-hardware-performance-bottlenecks.md)
+* [Modify multipass instance CPU and memory resource allocations](linux/modify-multipass-instance-cpu-and-memory-resource-allocations.md)
 
 ## Windows
 
